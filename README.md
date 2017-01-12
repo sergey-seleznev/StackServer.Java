@@ -1,5 +1,5 @@
 # StackServer.Java
-The project is a Java implementation of a test solution for a backend software developer position at http://www.fob-solutions.com.
+The project is a Java solution for a backend software developer position at http://www.fob-solutions.com.  
 During the interview the task was actually [implemented](https://github.com/sergey-seleznev/StackServer/) using the .NET Core platform.
 
 # Task
